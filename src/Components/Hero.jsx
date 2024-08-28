@@ -25,7 +25,7 @@ function Hero() {
           <div className={Classes.title}>
             <h1>
               Explore The World With{" "}
-              <span className={Classes.nickName}>Sumit Travels</span>
+              <span className={Classes.nickName}>Explore Travels</span>
             </h1>
             <p>
               Save at least 20% on stay
