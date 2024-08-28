@@ -18,7 +18,7 @@ function Testimonials() {
         <div className={Classes.testimonialBox}>
           <FontAwesomeIcon icon={faQuoteLeft} className={Classes.Icon} />
           <p>
-            Sumit travel has such a user-friendly website. Easy to navigate,
+            Explore travel has such a user-friendly website. Easy to navigate,
             search and fiddle with dates instead of having to call up. Once
             decided, the booking process was swift and easy, thank you.
           </p>
@@ -26,7 +26,7 @@ function Testimonials() {
           <div className={Classes.info}>
             {/* <img src={avatar} alt="image" /> */}
             <div>
-              <h3>Pradeep jain</h3>
+              <h3>Alex Adam</h3>
               <span>CEO • oftecheietech</span>
             </div>
           </div>
@@ -44,7 +44,7 @@ function Testimonials() {
           <div className={Classes.info}>
             <img src={avatar2} alt="image" />
             <div>
-              <h3>Anthony Tony</h3>
+              <h3>Bob Basalt</h3>
               <span>Researcher • wikipedia.com</span>
             </div>
           </div>
@@ -61,7 +61,7 @@ function Testimonials() {
           <div className={Classes.info}>
             <img src={avatar3} alt="image" />
             <div>
-              <h3>John Lee</h3>
+              <h3>Caitlin Clark</h3>
               <span>CEO • Grand Thornton</span>
             </div>
           </div>
