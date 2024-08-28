@@ -27,7 +27,7 @@ function Testimonials() {
             {/* <img src={avatar} alt="image" /> */}
             <div>
               <h3>Alex Adam</h3>
-              <span>CEO • oftecheietech</span>
+              <span>CEO</span>
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ function Testimonials() {
             <img src={avatar2} alt="image" />
             <div>
               <h3>Bob Basalt</h3>
-              <span>Researcher • wikipedia.com</span>
+              <span>Banker</span>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@ function Testimonials() {
             <img src={avatar3} alt="image" />
             <div>
               <h3>Caitlin Clark</h3>
-              <span>CEO • Grand Thornton</span>
+              <span>COO</span>
             </div>
           </div>
         </div>
